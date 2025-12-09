@@ -1,0 +1,5 @@
+{
+  "name": "ChronoGen AI",
+  "description": "An intelligent agent that designs custom smart watch faces based on your prompt, generating both the visual asset and the technical specification.",
+  "requestFramePermissions": []
+}
